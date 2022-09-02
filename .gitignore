@@ -1,0 +1,6 @@
+.vscode/
+images/
+DATASET/
+__pycache__/
+my_model.h5
+adam-99.h5
